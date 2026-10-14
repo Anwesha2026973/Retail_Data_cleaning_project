@@ -1,0 +1,8 @@
+Metric,Original Dataset,Cleaned Master Dataset,Product Sales Dataset
+Total rows,541909,536641,524878
+Duplicate rows,5268,0,0
+Missing CustomerID,135080,135037,132186
+Missing Description,1454,1454,0
+Negative quantities,10624,10587,0
+Zero prices,2515,2510,0
+Negative prices,2,2,0
